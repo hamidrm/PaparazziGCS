@@ -8,7 +8,12 @@ Some features of this project:
  - Ability to convert UAV internal log to CSV file and analyzing its data.
  - Ease to develop and extend messages
  - Ease to put waypoints and moving them
+---
+Used gauges:
+https://www.codeproject.com/Articles/27411/C-Avionic-Instrument-Controls
 
+Main Paparazzi Project:
+https://github.com/paparazzi
 
 \* *I just changed some components and minor changes on its UI.*
 ![Screenshot](pprzzigcs.png)
